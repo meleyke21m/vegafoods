@@ -1,0 +1,23 @@
+.containerProduct{
+    display: flex;
+    flex-wrap: wrap;
+    h1{
+        color: red;
+        /* text-align: center; */
+        margin: 0 auto;
+        margin-top: 10rem;
+    }
+}
+.filter button{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(167, 20, 20);
+    color:#fff;
+    border: 1px solid;
+}
+nav ul li a{
+    color: rgb(185, 30, 30);
+}
+header .moon{
+    background-color: rgb(167, 20, 20);
+}
